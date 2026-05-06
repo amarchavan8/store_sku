@@ -14,5 +14,7 @@
 
 ## Recommended Plan
 
-- Wireless Headphones: Switch to Supplier A (5-day lead time).
-- Laptop 14": Expedite shipping from Supplier C to deliver within 6 days.
+_Summary:_ Headphones: switch to Supplier A (5-day lead) to avoid stockout; Laptop: expedite shipping to bridge Supplier C's 7-day lead vs 6 days of stock.
+
+- **headphones** - `switch_supplier` - Switch to Supplier A (5-day lead, 10% cost premium) to arrive before 6-day stockout.
+- **laptop** - `expedite_shipping` - Expedite shipping from Supplier C to cut lead time from 7 to 6 days or less (air freight).
