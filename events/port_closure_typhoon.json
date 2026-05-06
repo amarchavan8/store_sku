@@ -1,0 +1,8 @@
+{
+  "event_id": "EVT-2026-05-09-004",
+  "type": "port_closure",
+  "headline": "Shanghai port closed due to typhoon — Supplier B shipments delayed 5 days",
+  "supplier_id": "supplier_b",
+  "downtime_days": 5,
+  "source": "logistics_partner"
+}

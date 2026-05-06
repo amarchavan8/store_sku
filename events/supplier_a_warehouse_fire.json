@@ -1,0 +1,8 @@
+{
+  "event_id": "EVT-2026-05-07-002",
+  "type": "supplier_outage",
+  "headline": "Supplier A warehouse fire — operations halted for 7 days",
+  "supplier_id": "supplier_a",
+  "downtime_days": 7,
+  "source": "news_feed"
+}

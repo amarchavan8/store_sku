@@ -1,0 +1,8 @@
+{
+  "event_id": "EVT-2026-05-11-006",
+  "type": "quality_recall",
+  "headline": "Supplier B recalls last batch of components — 4 days lost while replacements ship",
+  "supplier_id": "supplier_b",
+  "downtime_days": 4,
+  "source": "supplier_email"
+}

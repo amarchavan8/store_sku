@@ -1,0 +1,8 @@
+{
+  "event_id": "EVT-2026-05-08-003",
+  "type": "supplier_outage",
+  "headline": "Supplier C labor strike — shipments paused for 21 days",
+  "supplier_id": "supplier_c",
+  "downtime_days": 21,
+  "source": "supplier_email"
+}

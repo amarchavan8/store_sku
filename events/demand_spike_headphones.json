@@ -1,0 +1,9 @@
+{
+  "event_id": "EVT-2026-05-10-005",
+  "type": "demand_spike",
+  "headline": "Viral TikTok review — Wireless Headphones demand surging 4x for next 10 days",
+  "supplier_id": "supplier_b",
+  "downtime_days": 10,
+  "source": "social_listening",
+  "notes": "No actual outage; modeled as effective shortage because demand exceeds supply lead time."
+}
