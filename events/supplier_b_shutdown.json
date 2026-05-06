@@ -1,0 +1,7 @@
+{
+  "event_id": "EVT-2026-05-06-001",
+  "headline": "Supplier B factory hit by power outage, shutdown expected for 14 days",
+  "supplier_id": "supplier_b",
+  "downtime_days": 14,
+  "source": "supplier_email"
+}

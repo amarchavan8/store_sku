@@ -1,0 +1,8 @@
+{
+  "event_id": "EVT-2026-05-12-007",
+  "type": "minor_delay",
+  "headline": "Supplier A reporting 2-day shipping delay due to truck shortage",
+  "supplier_id": "supplier_a",
+  "downtime_days": 2,
+  "source": "logistics_partner"
+}

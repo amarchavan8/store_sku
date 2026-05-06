@@ -1,0 +1,42 @@
+{
+  "suppliers": {
+    "supplier_a": { "name": "Supplier A", "lead_time_days": 5, "status": "online", "cost_multiplier": 1.10 },
+    "supplier_b": { "name": "Supplier B", "lead_time_days": 3, "status": "online", "cost_multiplier": 1.00 },
+    "supplier_c": { "name": "Supplier C", "lead_time_days": 7, "status": "online", "cost_multiplier": 0.95 }
+  },
+
+  "skus": {
+    "headphones": {
+      "name": "Wireless Headphones",
+      "primary_supplier": "supplier_b",
+      "backup_suppliers": ["supplier_a", "supplier_c"],
+      "stock_units": 120,
+      "daily_sales": 20,
+      "unit_price": 199
+    },
+    "laptop": {
+      "name": "Laptop 14\"",
+      "primary_supplier": "supplier_b",
+      "backup_suppliers": ["supplier_c"],
+      "stock_units": 30,
+      "daily_sales": 5,
+      "unit_price": 1299
+    },
+    "mouse": {
+      "name": "USB Mouse",
+      "primary_supplier": "supplier_b",
+      "backup_suppliers": ["supplier_a"],
+      "stock_units": 800,
+      "daily_sales": 40,
+      "unit_price": 25
+    },
+    "keyboard": {
+      "name": "Mechanical Keyboard",
+      "primary_supplier": "supplier_a",
+      "backup_suppliers": ["supplier_c"],
+      "stock_units": 200,
+      "daily_sales": 10,
+      "unit_price": 89
+    }
+  }
+}
