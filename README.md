@@ -1,6 +1,6 @@
 # Disruption Responder
 
-A small multi-agent demo that reacts to supply-chain disruption events. When an event arrives (a supplier going down, a port closing, a demand spike, etc.), three lightweight "agents" cooperate to figure out how bad it is, what's at risk, and what to do about it. A markdown incident report is written for each event.
+A small multi-agent project for learning that reacts to supply-chain disruption events. When an event arrives (a supplier going down, a port closing, a demand spike, etc.), three lightweight "agents" cooperate to figure out how bad it is, what's at risk, and what to do about it. A markdown incident report is written for each event.
 
 ## How it works
 
